@@ -1,6 +1,6 @@
 # 👋 Hi, I'm rilay
 
-I'm an aspiring full-stack developer who really enjoys coding — from fast, responsive frontends to reliable, scalable backends. I love working across the stack and learning new technologies along the way.
+I'm an aspiring full-stack developer who really enjoys coding fast, responsive frontends and reliable, scalable backends. I love working across the stack and learning new technologies along the way.
 
 ---
 
